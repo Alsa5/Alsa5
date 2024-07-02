@@ -19,9 +19,12 @@
 
 ## About Me
 
-Hi there! I'm Sakthi Alagappan 👧, a passionate software developer 💻 based in Chennai, India🏠 . I love coding and enjoy exploring new technologies🤖 and frameworks⚒️. With a background in Information Technology, I'm currently working on several exciting projects in web🌐 and mobile📱 app development.
+Hi there! 
+I'm Sakthi Alagappan 👧, a passionate software developer 💻 based in Chennai, India🏠 . 
+I love coding and enjoy exploring new technologies🤖 and frameworks⚒️. 
+With a background in Information Technology, I have worked on several exciting projects in web🌐 and mobile📱 app development.
 
--I'm currently working on ML and full-stack projects.
+I'm currently working on ML and full-stack projects.
 
 I'm currently diving deeper into:
 - Advanced React Native features
@@ -29,5 +32,6 @@ I'm currently diving deeper into:
 - Springboot
 
 **Some Tools and Frameworks I have worked with include:**
+<br>
 <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Freactjs%2Freactjs-icon.svg&width=50&height=50"/>
 
