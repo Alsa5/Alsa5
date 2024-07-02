@@ -1,10 +1,6 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11048a,100:88048a&height=150&section=header&text=Hey%20there!&fontSize=65&fontColor=f2f5fc" alt="header">
 
----
-
-<div style="text-align: center;">
-
 ## Here's how you can reach me 👇
 
 <a href="https://www.linkedin.com/in/al-sakthi-a71b56226/">
@@ -19,9 +15,19 @@
   <img src="https://github.com/Alsa5/Alsa5/assets/122151829/66823532-6374-449e-9723-0f41d093475d" alt="Website" height="50" style="margin-right: 15;"/>
 </a>
 
-</div>
-
-
 ---
 
-<h2>About Me</h2>
+## About Me
+
+Hi there! I'm Sakthi Alagappan 👧, a passionate software developer 💻 based in Chennai, India🏠 . I love coding and enjoy exploring new technologies🤖 and frameworks⚒️. With a background in Information Technology, I'm currently working on several exciting projects in web🌐 and mobile📱 app development.
+
+-I'm currently working on ML and full-stack projects.
+
+I'm currently diving deeper into:
+- Advanced React Native features
+- Machine learning algorithms, &
+- Springboot
+
+**Some Tools and Frameworks I have worked with include:**
+<img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Freactjs%2Freactjs-icon.svg&width=50&height=50"/>
+
