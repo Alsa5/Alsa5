@@ -1,4 +1,5 @@
 <!-- Header -->
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11048a,100:88048a&height=150&section=header&text=Hey%20there!&fontSize=65&fontColor=f2f5fc" alt="header">
 
 ## Here's how you can reach me 👇
@@ -19,10 +20,13 @@
 
 ## About Me
 
-#Hi there! 
-#I'm Sakthi Alagappan 👧, a passionate software developer 💻 based in Chennai, India🏠 . 
-#I love coding and enjoy exploring new technologies🤖 and frameworks⚒️. 
-#With a background in Information Technology, I have worked on several exciting projects in web🌐 and mobile📱 app development.
+Hi there! 
+
+I'm Sakthi Alagappan 👧, a passionate software developer 💻 based in Chennai, India🏠 . 
+
+I love coding and enjoy exploring new technologies🤖 and frameworks⚒️. 
+
+With a background in Information Technology, I have worked on several exciting projects in web🌐 and mobile📱 app development.
 
 I'm currently working on ML and full-stack projects.
 
@@ -33,5 +37,10 @@ I'm currently diving deeper into:
 
 **Some Tools and Frameworks I have worked with include:**
 <br>
-<img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Freactjs%2Freactjs-icon.svg&width=50&height=50"/>
+<i class="devicon-react-original-wordmark colored"></i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+
+          
 
