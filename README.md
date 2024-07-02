@@ -38,11 +38,11 @@ I'm currently diving deeper into:
 **Some Tools and Frameworks I have worked with include:**
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,py,c,java,html,css,bootstrap,js,express,flask,nodejs,mysql,firebase,netlify,figma,vscode,github,&perline=6)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" height="80" width="80" />
-<img src="https://avatars.githubusercontent.com/u/16919504?s=280&v=4" height="80" width="80" />
-<img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" height="80" width="80" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="80" width="80" />
+[![My Skills](https://skillicons.dev/icons?i=react,py,c,java,html,css,bootstrap,js,express,flask,nodejs,mysql,firebase,netlify,figma,vscode,github,&perline=7)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" height="20" width="20" />
+<img src="https://avatars.githubusercontent.com/u/16919504?s=280&v=4" height="20" width="20" />
+<img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" height="20" width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="20" width="20" />
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88048a,100:11048a&height=100&section=footer" alt="footer">
