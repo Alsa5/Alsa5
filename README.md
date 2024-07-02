@@ -37,10 +37,8 @@ I'm currently diving deeper into:
 
 **Some Tools and Frameworks I have worked with include:**
 <br>
-<i class="devicon-react-original-wordmark colored"></i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<i class="devicon-react-original-wordmark colored"></i>
+
 
           
 
