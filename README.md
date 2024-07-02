@@ -18,8 +18,7 @@
 </p>
 
 ## About Me
-
-Hi there! 
+Hello!
 
 I'm Sakthi Alagappan 👧, a passionate software developer 💻 based in Chennai, India🏠 . 
 
