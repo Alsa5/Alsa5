@@ -5,7 +5,7 @@
 
 <h2>Here's how you can reach me 👇 </h2>
 
-<div style="text-align: center;">
+<div style="align-items: center;">
   <!-- LinkedIn Profile Link -->
   <a href="https://www.linkedin.com/in/al-sakthi-a71b56226/">
     <img height="50" src="https://github.com/Alsa5/Alsa5/assets/122151829/eac6e99a-4b29-41db-b0e5-931874581540" alt="LinkedIn" >
