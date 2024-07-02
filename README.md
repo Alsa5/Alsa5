@@ -36,7 +36,7 @@ I'm currently diving deeper into:
 
 **Some Tools and Frameworks I have worked with include:**
 <br>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,py,c,java,html,css,bootstrap,js,express,flask,nodejs,npm,mysql,firebase,netlify,figma,vscode,github,&perline=6"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" height="50" width="50"/>
   <img src="https://avatars.githubusercontent.com/u/16919504?s=280&v=4" height="50" width="50"/>
