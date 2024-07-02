@@ -19,10 +19,10 @@
 
 ## About Me
 
-Hi there! 
-I'm Sakthi Alagappan 👧, a passionate software developer 💻 based in Chennai, India🏠 . 
-I love coding and enjoy exploring new technologies🤖 and frameworks⚒️. 
-With a background in Information Technology, I have worked on several exciting projects in web🌐 and mobile📱 app development.
+#Hi there! 
+#I'm Sakthi Alagappan 👧, a passionate software developer 💻 based in Chennai, India🏠 . 
+#I love coding and enjoy exploring new technologies🤖 and frameworks⚒️. 
+#With a background in Information Technology, I have worked on several exciting projects in web🌐 and mobile📱 app development.
 
 I'm currently working on ML and full-stack projects.
 
