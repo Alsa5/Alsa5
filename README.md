@@ -42,6 +42,7 @@ I'm currently diving deeper into:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="50" width="50" align="left" />
 <img src="https://miro.medium.com/v2/resize:fit:1024/1*xDi2csEAWxu95IEkaNdFUQ.png" height="50" width="50" align="left" />
 <img src="https://storage.googleapis.com/replit/images/1619744706953_a11b5e0a6acf250ac95d9b46d5a2673f.jpeg" height="50" width="50" align="left"/>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=react,py,c,java,html,css,bootstrap,js,express,flask,nodejs,npm,mysql,firebase,netlify,figma,vscode,github,&perline=6)](https://skillicons.dev)
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88048a,100:11048a&height=100&section=footer" alt="footer">
