@@ -35,6 +35,7 @@ I'm currently diving deeper into:
 
 **Some Tools and Frameworks I have worked with include:**
 <br>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=react,py,c,java,html,css,bootstrap,js,express,flask,nodejs,npm,mysql,firebase,netlify,figma,vscode,github,&perline=6)](https://skillicons.dev)
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" height="50" width="50"/>
