@@ -16,7 +16,6 @@
     <img src="https://github.com/Alsa5/Alsa5/assets/122151829/66823532-6374-449e-9723-0f41d093475d" alt="Website" height="50" style="margin-right: 15;"/>
   </a>
 </p>
----
 
 ## About Me
 
@@ -39,12 +38,11 @@ I'm currently diving deeper into:
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=react,py,c,java,html,css,bootstrap,js,express,flask,nodejs,npm,mysql,firebase,netlify,figma,vscode,github,&perline=6)](https://skillicons.dev)
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" height="40" width="40" />
-<img src="https://avatars.githubusercontent.com/u/16919504?s=280&v=4" height="40" width="40" />
-<img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" width="40" />
-<img src="https://miro.medium.com/v2/resize:fit:1024/1*xDi2csEAWxu95IEkaNdFUQ.png" height="40" width="40" />
-<img src="https://storage.googleapis.com/replit/images/1619744706953_a11b5e0a6acf250ac95d9b46d5a2673f.jpeg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" height="60" width="60" />
+<img src="https://avatars.githubusercontent.com/u/16919504?s=280&v=4" height="60" width="60" />
+<img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" height="60" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="60" width="60" />
+<img src="https://miro.medium.com/v2/resize:fit:1024/1*xDi2csEAWxu95IEkaNdFUQ.png" height="60" width="60" />
+<img src="https://storage.googleapis.com/replit/images/1619744706953_a11b5e0a6acf250ac95d9b46d5a2673f.jpeg" height="60" width="60" />
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88048a,100:11048a&height=100&section=footer" alt="footer">
