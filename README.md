@@ -45,4 +45,4 @@ I'm currently diving deeper into:
 <img src="https://storage.googleapis.com/replit/images/1619744706953_a11b5e0a6acf250ac95d9b46d5a2673f.jpeg" height="50" width="50"/>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:88048a,100:11048a&height=100&section=footer&text=Thanks%20%for%20visiting!&fontSize=40&fontColor=f2f5fc" alt="footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:88048a,125:11048a&height=100&section=footer&text=Thanks%20%for%20visiting!&fontSize=40&fontColor=f2f5fc" alt="footer">
