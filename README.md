@@ -25,13 +25,6 @@ I love coding and enjoy exploring new technologies🤖 and frameworks⚒️.
 
 With a background in Information Technology, I have worked on several exciting projects in web🌐 and mobile📱 app development.
 
-I'm currently working on ML and full-stack projects.
-
-I'm currently diving deeper into:
-- Advanced React Native features
-- Machine learning algorithms, &
-- Springboot
-
 **Some Tools and Frameworks I have worked with include:**
 <br>
 <br>
